@@ -1,0 +1,33 @@
+.form{
+    display: flex;
+    margin:30px auto;
+    background-color:bisque;
+    width: 700px;
+    align-items: center;
+    box-shadow: 10px 8px 10px black;
+}
+/* .form image{
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-oeCmfp5uPuxmBmH4ZfPTIRPEvk8qqk8Y2g&usqp=CAU');
+background-size: cover;
+height: 100vh;
+background-position: center;
+} */
+
+.form_inputs{
+    text-align: center;
+}
+.form_inputs input{
+ border: none;
+ height: 30px;
+ width: 325px;
+ margin: 10px ;
+ border-radius: 10px;
+ outline: none;
+}
+.form_inputs button{
+    border: none;
+    background-color: midnightblue;
+    color: white;
+    padding: 8px 20px ;
+    border-radius: 8px;
+}

@@ -1,0 +1,38 @@
+.banner{
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ padding: 30px;
+}
+.home{
+    background-color: rgb(8, 8, 59);
+}
+.description p{
+    color: white;
+}
+.description button{
+    background-color: transparent;
+    color: rgb(64, 64, 248);
+    border:1px solid rgb(64, 64, 248) ;
+    border-radius: 5px;
+    padding: 8px 20px;
+}
+.movies_list{
+ padding: 30px ;
+}
+.movies_list img{
+    height: 350px;
+    width: 250px;
+    border-radius: 8px;
+    margin: 0px 3px;
+    transition: 0.5s;
+}
+.movies_list img:hover{
+    /* //transform:scale(1.1); */
+    transform: translateY(-10px);
+  
+}
+.movies_list h1{
+    color: white;
+    
+}

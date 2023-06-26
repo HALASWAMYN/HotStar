@@ -1,0 +1,46 @@
+{
+  "favourites": [
+    {
+      "title": "The Boys",
+      "genre": "action",
+      "language": "English",
+      "rating": 4.5,
+      "id": 1
+    },
+    {
+      "title": "Dark",
+      "genre": "sci-fi/mystery",
+      "language": "german",
+      "rating": 4.7,
+      "id": 2
+    },
+    {
+      "title": "money heist",
+      "genre": "drama",
+      "language": "english",
+      "rating": 4.2,
+      "id": 3
+    },
+    {
+      "title": "charlie",
+      "genre": "adventure/drama",
+      "language": "malayalam",
+      "rating": 5,
+      "id": 4
+    },
+    {
+      "title": "title",
+      "genre": "genre",
+      "language": "language",
+      "rating": "4",
+      "id": 5
+    },
+    {
+      "title": "hgyhgfyg",
+      "genre": "kjh",
+      "language": "kjhi",
+      "rating": "4",
+      "id": 6
+    }
+  ]
+}
